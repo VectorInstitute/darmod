@@ -13,12 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Just the Class
+title: DaRMoD
 tagline: A Jekyll template for course websites
 description: A modern, highly customizable, responsive Jekyll template for course websites
 author: Michael Joseph
 baseurl: '/darmod' # the subpath of your site, e.g. /blog
 url: 'https://josephmje.github.io' # the base hostname & protocol for your site, e.g. http://example.com
+logo: '/assets/images/logo.png'
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 # Theme settings
@@ -27,9 +28,14 @@ color_scheme: light
 search_enabled: true
 heading_anchors: true
 permalink: pretty
+aux_links_new_tab: true
 aux_links:
+  Slack:
+    - 'https://vector-projects.slack.com'
   GitHub:
     - 'https://github.com/josephmje/darmod'
+  Google Drive:
+    - 'https://drive.google.com/drive/folders/1t0jcEGejrilj3qnORMT5dyCZIPjUS6ZO?usp=drive_link'
 footer_content:
 
 # Collections for website data
