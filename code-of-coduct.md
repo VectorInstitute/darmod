@@ -3,6 +3,8 @@ layout: page
 title: Code of Conduct
 ---
 
+# Code of Conduct
+
 For online programs, the virtual meeting platforms (Zoom and Slack) are considered the classroom and the same protections, expectations, guidelines, and regulations used in face-to-face settings apply, plus other policies and considerations that come into play that are specific to the online program environment.
 
 Inappropriate online behaviour will not be tolerated. Examples of inappropriate online behaviour include, but are not limited to:
