@@ -4,12 +4,14 @@ sort_order: 2
 ---
 
 Jan 14
+: [Slides and Recording](https://drive.google.com/drive/folders/1DoHWHcO4db4Z1CR8gKS3lQe6QUGqiDZ2?usp=drive_link)
 : **Lecture**{: .label .label-purple }Introduction to Data Readiness **(3-5 PM ET)**
 : * importance of "clean" data for machine learning
 : * overview of common data types and typical use cases
 : * data readiness and quality assessment
 
 Jan 15
+: [Slides and Recording](https://drive.google.com/drive/folders/1DoHWHcO4db4Z1CR8gKS3lQe6QUGqiDZ2?usp=drive_link)
 : **Discussion**{: .label .label-blue }[Principles in Action Framework](https://principlesinaction.vectorinstitute.ai/) **(3-4 PM ET)**
 : * overview of the Principles in Action playbook for Responsible AI product development
 : * **Product Ideation** discussion and [worksheet](https://principlesinaction.vectorinstitute.ai/files/Ideation_Worksheet.pdf)
