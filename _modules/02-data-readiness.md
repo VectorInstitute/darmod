@@ -11,7 +11,7 @@ Jan 14
 : * data readiness and quality assessment
 
 Jan 15
-: [Slides and Recording](https://drive.google.com/drive/folders/1DoHWHcO4db4Z1CR8gKS3lQe6QUGqiDZ2?usp=drive_link)
+: [Slides and Recordings](https://drive.google.com/drive/folders/1DoHWHcO4db4Z1CR8gKS3lQe6QUGqiDZ2?usp=drive_link)
 : **Discussion**{: .label .label-blue }[Principles in Action Framework](https://principlesinaction.vectorinstitute.ai/) **(3-4 PM ET)**
 : * overview of the Principles in Action playbook for Responsible AI product development
 : * **Product Ideation** discussion and [worksheet](https://principlesinaction.vectorinstitute.ai/files/Ideation_Worksheet.pdf)
@@ -24,6 +24,7 @@ Jan 17
 : **Project Description and Product Ideation Worksheet due**{: .label .label-red }
 
 Jan 21
+: [Slides and Recordings](https://drive.google.com/drive/folders/1awTtPaU3e9O2x3lsqbgRGs6nakWj_3AW?usp=drive_link)
 : **Lecture**{: .label .label-purple } **Hands-on**{: .label .label-green } Data Preparation & Exploratory Data Analysis (EDA) **(3-5 PM ET)**
 
 Jan 22
