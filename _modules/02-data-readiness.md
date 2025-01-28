@@ -28,16 +28,17 @@ Jan 21
 : **Lecture**{: .label .label-purple } **Hands-on**{: .label .label-green } Data Preparation & Exploratory Data Analysis (EDA) **(3-5 PM ET)**
 
 Jan 22
+: [Slides and Recordings](https://drive.google.com/drive/folders/1awTtPaU3e9O2x3lsqbgRGs6nakWj_3AW?usp=drive_link)
 : **Lecture**{: .label .label-purple } **Hands-on**{: .label .label-green } Data Preparation & EDA for Text **(3-4 PM ET)**
 : **Lecture**{: .label .label-purple } **Hands-on**{: .label .label-green } Data Preparation & EDA for Images **(4-5 PM ET)**
 
 Jan 28
-: **Lecture**{: .label .label-purple } **Hands-on**{: .label .label-green }Feature Engineering & Advanced Data Preparation Techniques **(3-5 PM ET)**
+: **Lecture**{: .label .label-purple } **Hands-on**{: .label .label-green } Feature Engineering & Advanced Data Preparation Techniques **(3-5 PM ET)**
 
 Jan 29
 : **Discussion**{: .label .label-blue }[Principles in Action Framework](https://principlesinaction.vectorinstitute.ai/) **(3-4 PM ET)**
 : * **Product Development** discussion and [worksheet](https://principlesinaction.vectorinstitute.ai/files/Development_Worksheet.pdf)
-: **Lecture**{: .label .label-purple } **Hands-on**{: .label .label-green }Data Labeling & Approaches for Dealing with Limited Data **(4-5 PM ET)**
+: **Lecture**{: .label .label-purple } **Hands-on**{: .label .label-green } Approaches for Dealing with Limited Data **(4-5 PM ET)**
 
 Jan 31
 : **Product Development Worksheet due**{: .label .label-red }
