@@ -33,9 +33,11 @@ Jan 22
 : **Lecture**{: .label .label-purple } **Hands-on**{: .label .label-green } Data Preparation & EDA for Images **(4-5 PM ET)**
 
 Jan 28
+: [Slides and Recording](https://drive.google.com/drive/folders/1g2OFP6ZoDMzlqN-KgzRV7e8H2ct536c3?usp=drive_link)
 : **Lecture**{: .label .label-purple } **Hands-on**{: .label .label-green } Feature Engineering & Advanced Data Preparation Techniques **(3-5 PM ET)**
 
 Jan 29
+: [Slides and Recording](https://drive.google.com/drive/folders/1g2OFP6ZoDMzlqN-KgzRV7e8H2ct536c3?usp=drive_link)
 : **Discussion**{: .label .label-blue }[Principles in Action Framework](https://principlesinaction.vectorinstitute.ai/) **(3-4 PM ET)**
 : * **Product Development** discussion and [worksheet](https://principlesinaction.vectorinstitute.ai/files/Development_Worksheet.pdf)
 : **Lecture**{: .label .label-purple } **Hands-on**{: .label .label-green } Approaches for Dealing with Limited Data **(4-5 PM ET)**
