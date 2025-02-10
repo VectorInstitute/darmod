@@ -8,14 +8,14 @@ Feb 11
 
 Feb 12
 : **Hands-on**{: .label .label-green } Introduction to Machine Learning & Model Evaluation continued **(3-4 PM ET)**
-: **Lecture**{: .label .label-purple } Make, Buy, or Modify **(4-4:30 PM ET)**
-: **Discussion**{: .label .label-blue } Progress Sharing & Peer Discussion **(4:30-5 PM ET)**
+: **Hands-on**{: .label .label-green } Explainability and Interpretability **(4-5 PM ET)**
 
 Feb 18
 : **Lecture**{: .label .label-purple } **Hands-on**{: .label .label-green } Introduction to Language Models **(3-5 PM ET)**
 
 Feb 19
-: **Lecture**{: .label .label-purple } **Hands-on**{: .label .label-green } Introduction to Computer Vision **(3-5 PM ET)**
+: **Lecture**{: .label .label-purple } Guest Talk: Make, Buy, or Modify with Sheldon Fernandez (CEO, DarwinAI) **(3-4 PM ET)**
+: **Discussion**{: .label .label-blue } Progress Sharing & Peer Discussion **(4-5 PM ET)**
 
 Feb 25
 : **Lecture**{: .label .label-purple } Experiment Tracking **(3-5 PM ET)**
